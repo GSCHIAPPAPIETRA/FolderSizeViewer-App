@@ -1,6 +1,6 @@
 {
     "version":  "6.0.0",
     "downloadUrl":  "https://github.com/GSCHIAPPAPIETRA/FolderSizeViewer-App/releases/latest/download/FolderSizeViewer.exe",
-    "releaseNotes":  "## ?? Cos\u0027è FolderSize Viewer Pro?",
-    "releaseDate":  "2026-09-28T09:49:49Z"
+    "releaseNotes":  "Miglioramenti generali e ottimizzazioni di sistema.\n- Architettura Closed-Source con repository privato.\n- Protezione file di sistema avanzata.\n- Finestre di dialogo scure ed eleganti.",
+    "releaseDate":  "2026-09-28T11:34:21Z"
 }
